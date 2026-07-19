@@ -13,7 +13,8 @@
 #### 🚀 طريقة التشغيل (How to Run):
 1. افتح **PowerShell ISE** كمسؤول (Run as Administrator).
 2. اسمح بتشغيل السكربتات عبر الأمر:
-  
+   ```powershell
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 
 
