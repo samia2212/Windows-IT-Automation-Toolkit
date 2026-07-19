@@ -13,8 +13,7 @@
 #### 🚀 طريقة التشغيل (How to Run):
 1. افتح **PowerShell ISE** كمسؤول (Run as Administrator).
 2. اسمح بتشغيل السكربتات عبر الأمر:
-   ```powershell
-   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+  
 
 
 
@@ -24,7 +23,7 @@
 
 
 
-   ### 2. نظام التدقيق الموسع لشبكات الشركات (Enterprise IT Network Auditor - V2)
+### 2. نظام التدقيق الموسع لشبكات الشركات (Enterprise IT Network Auditor - V2)
 * **المسار:** `Enterprise-Network-Scanner/Network_Health_Auditor.ps1`
 * **الوصف:** نسخة متقدمة مصممة لإدارة بيئات العمل الضخمة. يدعم الفحص المتعدد للأجهزة عن بُعد، مراقبة تحديثات النظام الأمنية المعلقة، الكشف المبكر عن أعطال الطابعات بالمنظمة، ورصد أعلى 10 عمليات مستهلكة للأداء مع استخراج الأرقام التسلسلية وموديلات الأجهزة (Asset Management).
 
